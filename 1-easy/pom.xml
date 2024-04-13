@@ -8,10 +8,14 @@
     </parent>
 
     <artifactId>1-easy</artifactId>
-    <packaging>jar</packaging>
-
+    <packaging>pom</packaging>
     <name>1-easy</name>
-    <url>http://maven.apache.org</url>
+
+    <modules>
+        <module>1-two_sums</module>
+        <module>9-palindrome-number</module>
+        <module>13-roman-to-integer</module>
+    </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
