@@ -10,12 +10,14 @@
   <name>leetcode</name>
   <url>http://maven.apache.org</url>
   <modules>
-    <module>1-easy</module>
-    <module>1-easy/1-two_sums</module>
+    <module>easy</module>
+    <module>easy/two_sums</module>
   </modules>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <maven.compiler.target>21</maven.compiler.target>
+    <maven.compiler.source>21</maven.compiler.source>
   </properties>
 
   <dependencies>
