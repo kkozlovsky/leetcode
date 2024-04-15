@@ -9,7 +9,7 @@
 
     <artifactId>easy</artifactId>
     <packaging>pom</packaging>
-    <name>1-easy</name>
+    <name>easy</name>
 
     <modules>
         <module>two_sums</module>

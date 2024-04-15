@@ -8,10 +8,9 @@
   <packaging>pom</packaging>
 
   <name>leetcode</name>
-  <url>http://maven.apache.org</url>
+
   <modules>
     <module>easy</module>
-    <module>easy/two_sums</module>
   </modules>
 
   <properties>
@@ -24,7 +23,7 @@
     <dependency>
       <groupId>org.junit.jupiter</groupId>
       <artifactId>junit-jupiter-engine</artifactId>
-      <version>5.9.1</version>
+      <version>5.10.2</version>
       <scope>test</scope>
     </dependency>
   </dependencies>
