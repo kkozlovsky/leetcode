@@ -4,7 +4,7 @@ package ru.kerporation;
 import java.util.HashMap;
 import java.util.Map;
 
-class Solution {
+public class Solution {
 
     public int[] twoSum1(int[] nums, int target) {
         for (int i = 0; i < nums.length; i++) {
