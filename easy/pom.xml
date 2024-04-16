@@ -14,9 +14,9 @@
     <modules>
         <module>two_sums</module>
         <module>palindrome_number</module>
-        <module>roman_to_integer</module>
         <module>valid_parentheses</module>
         <module>longest_common_prefix</module>
+        <module>roman_to_integer</module>
     </modules>
 
     <properties>
