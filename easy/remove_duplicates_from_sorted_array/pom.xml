@@ -3,25 +3,26 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>ru.kerporation</groupId>
-        <artifactId>leetcode</artifactId>
+        <artifactId>easy</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>easy</artifactId>
-    <packaging>pom</packaging>
-    <name>easy</name>
+    <artifactId>remove_duplicates_from_sorted_array</artifactId>
+    <packaging>jar</packaging>
 
-    <modules>
-        <module>two_sums</module>
-        <module>palindrome_number</module>
-        <module>valid_parentheses</module>
-        <module>longest_common_prefix</module>
-        <module>roman_to_integer</module>
-        <module>merge_two_sorted_lists</module>
-        <module>remove_duplicates_from_sorted_array</module>
-    </modules>
+    <name>remove_duplicates_from_sorted_array</name>
+    <url>http://maven.apache.org</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>3.8.1</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
 </project>

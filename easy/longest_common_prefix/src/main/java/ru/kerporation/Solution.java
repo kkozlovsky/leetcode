@@ -1,8 +1,5 @@
 package ru.kerporation;
 
-/**
- * Hello world!
- */
 public class Solution {
 
     public String longestCommonPrefix(final String[] strs) {
