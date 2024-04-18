@@ -19,6 +19,7 @@
         <module>roman_to_integer</module>
         <module>merge_two_sorted_lists</module>
         <module>remove_duplicates_from_sorted_array</module>
+        <module>remove_element</module>
     </modules>
 
     <properties>
