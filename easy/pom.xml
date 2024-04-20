@@ -21,6 +21,7 @@
         <module>remove_duplicates_from_sorted_array</module>
         <module>remove_element</module>
         <module>first_occurrence_in_string</module>
+        <module>search_insert_position</module>
     </modules>
 
     <properties>
