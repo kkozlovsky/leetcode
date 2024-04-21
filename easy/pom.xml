@@ -22,6 +22,7 @@
         <module>remove_element</module>
         <module>first_occurrence_in_string</module>
         <module>search_insert_position</module>
+        <module>climbing_stairs</module>
     </modules>
 
     <properties>
