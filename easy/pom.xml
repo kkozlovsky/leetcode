@@ -24,6 +24,7 @@
         <module>search_insert_position</module>
         <module>climbing_stairs</module>
         <module>binary_tree_inorder_traversal</module>
+        <module>symmetric_tree</module>
     </modules>
 
     <properties>
