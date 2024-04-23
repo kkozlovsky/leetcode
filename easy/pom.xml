@@ -27,6 +27,7 @@
         <module>symmetric_tree</module>
         <module>maximum_depth_of_binary_tree</module>
         <module>pascals_triangle</module>
+        <module>best_time_to_buy_and_sell_stock</module>
     </modules>
 
     <properties>
