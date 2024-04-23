@@ -26,6 +26,7 @@
         <module>binary_tree_inorder_traversal</module>
         <module>symmetric_tree</module>
         <module>maximum_depth_of_binary_tree</module>
+        <module>pascals_triangle</module>
     </modules>
 
     <properties>
