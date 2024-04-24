@@ -29,6 +29,7 @@
         <module>pascals_triangle</module>
         <module>best_time_to_buy_and_sell_stock</module>
         <module>single_number</module>
+        <module>linked_list_cycle</module>
     </modules>
 
     <properties>
