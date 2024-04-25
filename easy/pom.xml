@@ -31,6 +31,7 @@
         <module>single_number</module>
         <module>linked_list_cycle</module>
         <module>intersection_of_two_linked_lists</module>
+        <module>majority_element</module>
     </modules>
 
     <properties>
