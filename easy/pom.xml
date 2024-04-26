@@ -32,6 +32,7 @@
         <module>linked_list_cycle</module>
         <module>intersection_of_two_linked_lists</module>
         <module>majority_element</module>
+        <module>reverse_linked_list</module>
     </modules>
 
     <properties>
