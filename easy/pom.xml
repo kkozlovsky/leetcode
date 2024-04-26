@@ -33,6 +33,7 @@
         <module>intersection_of_two_linked_lists</module>
         <module>majority_element</module>
         <module>reverse_linked_list</module>
+        <module>invert_binary_tree</module>
     </modules>
 
     <properties>
