@@ -35,6 +35,7 @@
         <module>reverse_linked_list</module>
         <module>invert_binary_tree</module>
         <module>palindrome_linked_list</module>
+        <module>move_zeroes</module>
     </modules>
 
     <properties>
