@@ -37,6 +37,7 @@
         <module>palindrome_linked_list</module>
         <module>move_zeroes</module>
         <module>diameter_of_binary_tree</module>
+        <module>binary_search</module>
     </modules>
 
     <properties>
