@@ -39,6 +39,7 @@
         <module>diameter_of_binary_tree</module>
         <module>binary_search</module>
         <module>plus_one</module>
+        <module>sqrtx</module>
     </modules>
 
     <properties>
