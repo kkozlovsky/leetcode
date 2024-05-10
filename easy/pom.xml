@@ -40,6 +40,7 @@
         <module>binary_search</module>
         <module>plus_one</module>
         <module>sqrtx</module>
+        <module>merge_sorted_array</module>
     </modules>
 
     <properties>
