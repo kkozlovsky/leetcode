@@ -42,6 +42,7 @@
         <module>sqrtx</module>
         <module>merge_sorted_array</module>
         <module>convert_sorted_array_to_binary_search_tree</module>
+        <module>valid_palindrome</module>
     </modules>
 
     <properties>
