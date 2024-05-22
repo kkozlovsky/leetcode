@@ -46,6 +46,7 @@
         <module>excel_sheet_column_number</module>
         <module>reverse_bits</module>
         <module>number_of_1_bits</module>
+        <module>happy_number</module>
     </modules>
 
     <properties>
