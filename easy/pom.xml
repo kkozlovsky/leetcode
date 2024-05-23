@@ -48,6 +48,7 @@
         <module>number_of_1_bits</module>
         <module>happy_number</module>
         <module>contains_duplicate</module>
+        <module>valid_anagram</module>
     </modules>
 
     <properties>
