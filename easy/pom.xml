@@ -49,6 +49,7 @@
         <module>happy_number</module>
         <module>contains_duplicate</module>
         <module>valid_anagram</module>
+        <module>missing_number</module>
     </modules>
 
     <properties>
