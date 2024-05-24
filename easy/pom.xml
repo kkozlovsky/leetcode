@@ -51,6 +51,7 @@
         <module>valid_anagram</module>
         <module>missing_number</module>
         <module>power_of_three</module>
+        <module>reverse_string</module>
     </modules>
 
     <properties>
