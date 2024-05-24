@@ -50,6 +50,7 @@
         <module>contains_duplicate</module>
         <module>valid_anagram</module>
         <module>missing_number</module>
+        <module>power_of_three</module>
     </modules>
 
     <properties>
