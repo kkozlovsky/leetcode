@@ -54,6 +54,7 @@
         <module>reverse_string</module>
         <module>intersection_of_two_arrays_ii</module>
         <module>first_unique_character_in_a_string</module>
+        <module>fizz_buzz</module>
     </modules>
 
     <properties>
