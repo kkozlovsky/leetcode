@@ -56,6 +56,7 @@
         <module>first_unique_character_in_a_string</module>
         <module>fizz_buzz</module>
         <module>length_of_last_word</module>
+        <module>add_binary</module>
     </modules>
 
     <properties>
