@@ -55,6 +55,7 @@
         <module>intersection_of_two_arrays_ii</module>
         <module>first_unique_character_in_a_string</module>
         <module>fizz_buzz</module>
+        <module>length_of_last_word</module>
     </modules>
 
     <properties>
