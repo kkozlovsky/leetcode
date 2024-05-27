@@ -57,6 +57,7 @@
         <module>fizz_buzz</module>
         <module>length_of_last_word</module>
         <module>add_binary</module>
+        <module>remove_duplicates_from_sorted_list</module>
     </modules>
 
     <properties>
