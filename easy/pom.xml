@@ -60,6 +60,7 @@
         <module>remove_duplicates_from_sorted_list</module>
         <module>same_tree</module>
         <module>untitledbalanced_binary_tree</module>
+        <module>minimum_depth_of_binary_tree</module>
     </modules>
 
     <properties>
