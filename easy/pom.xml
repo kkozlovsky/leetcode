@@ -62,6 +62,7 @@
         <module>untitledbalanced_binary_tree</module>
         <module>minimum_depth_of_binary_tree</module>
         <module>path_sum</module>
+        <module>pascals_triangle_ii</module>
     </modules>
 
     <properties>
