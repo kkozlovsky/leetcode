@@ -61,6 +61,7 @@
         <module>same_tree</module>
         <module>untitledbalanced_binary_tree</module>
         <module>minimum_depth_of_binary_tree</module>
+        <module>path_sum</module>
     </modules>
 
     <properties>
