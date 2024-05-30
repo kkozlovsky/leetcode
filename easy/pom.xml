@@ -64,6 +64,7 @@
         <module>path_sum</module>
         <module>pascals_triangle_ii</module>
         <module>binary_tree_preorder_traversal</module>
+        <module>binary_tree_postorder_traversal</module>
     </modules>
 
     <properties>
