@@ -63,6 +63,7 @@
         <module>minimum_depth_of_binary_tree</module>
         <module>path_sum</module>
         <module>pascals_triangle_ii</module>
+        <module>binary_tree_preorder_traversal</module>
     </modules>
 
     <properties>
