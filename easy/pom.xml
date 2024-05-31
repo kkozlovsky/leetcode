@@ -65,6 +65,7 @@
         <module>pascals_triangle_ii</module>
         <module>binary_tree_preorder_traversal</module>
         <module>binary_tree_postorder_traversal</module>
+        <module>excel_sheet_column_title</module>
     </modules>
 
     <properties>
