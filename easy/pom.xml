@@ -66,6 +66,7 @@
         <module>binary_tree_preorder_traversal</module>
         <module>binary_tree_postorder_traversal</module>
         <module>excel_sheet_column_title</module>
+        <module>remove_linked_list_elements§</module>
     </modules>
 
     <properties>
