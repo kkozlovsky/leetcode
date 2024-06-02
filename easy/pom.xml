@@ -68,6 +68,7 @@
         <module>excel_sheet_column_title</module>
         <module>remove_linked_list_elements</module>
         <module>contains_duplicate_ii</module>
+        <module>isomorphic_strings</module>
     </modules>
 
     <properties>
