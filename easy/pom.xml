@@ -69,6 +69,7 @@
         <module>remove_linked_list_elements</module>
         <module>contains_duplicate_ii</module>
         <module>isomorphic_strings</module>
+        <module>count_complete_tree_nodes</module>
     </modules>
 
     <properties>
