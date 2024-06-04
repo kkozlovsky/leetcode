@@ -72,6 +72,7 @@
         <module>count_complete_tree_nodes</module>
         <module>implement_stack_using_queues</module>
         <module>summary_ranges</module>
+        <module>power_of_two</module>
     </modules>
 
     <properties>
