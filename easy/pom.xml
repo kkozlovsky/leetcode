@@ -73,6 +73,7 @@
         <module>implement_stack_using_queues</module>
         <module>summary_ranges</module>
         <module>power_of_two</module>
+        <module>implement_queue_using_stacks</module>
     </modules>
 
     <properties>
