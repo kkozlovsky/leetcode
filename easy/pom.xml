@@ -71,6 +71,7 @@
         <module>isomorphic_strings</module>
         <module>count_complete_tree_nodes</module>
         <module>implement_stack_using_queues</module>
+        <module>summary_ranges</module>
     </modules>
 
     <properties>
