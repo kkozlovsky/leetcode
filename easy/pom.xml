@@ -75,6 +75,7 @@
         <module>power_of_two</module>
         <module>implement_queue_using_stacks</module>
         <module>binary_tree_paths</module>
+        <module>add_digits</module>
     </modules>
 
     <properties>
