@@ -76,6 +76,7 @@
         <module>implement_queue_using_stacks</module>
         <module>binary_tree_paths</module>
         <module>add_digits</module>
+        <module>ugly_number</module>
     </modules>
 
     <properties>
