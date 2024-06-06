@@ -78,6 +78,7 @@
         <module>add_digits</module>
         <module>ugly_number</module>
         <module>word_pattern</module>
+        <module>nim_game</module>
     </modules>
 
     <properties>
