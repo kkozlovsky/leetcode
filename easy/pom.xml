@@ -80,6 +80,7 @@
         <module>word_pattern</module>
         <module>nim_game</module>
         <module>range_sum_query_immutable</module>
+        <module>counting_bits</module>
     </modules>
 
     <properties>
