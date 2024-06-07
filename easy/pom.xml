@@ -79,6 +79,7 @@
         <module>ugly_number</module>
         <module>word_pattern</module>
         <module>nim_game</module>
+        <module>range_sum_query_immutable</module>
     </modules>
 
     <properties>
