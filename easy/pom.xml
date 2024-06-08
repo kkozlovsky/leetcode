@@ -82,6 +82,7 @@
         <module>range_sum_query_immutable</module>
         <module>counting_bits</module>
         <module>power_of_four</module>
+        <module>reverse_vowels_of_a_string</module>
     </modules>
 
     <properties>
