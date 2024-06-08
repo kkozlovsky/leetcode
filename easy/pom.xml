@@ -83,6 +83,7 @@
         <module>counting_bits</module>
         <module>power_of_four</module>
         <module>reverse_vowels_of_a_string</module>
+        <module>intersection_of_two_arrays</module>
     </modules>
 
     <properties>
