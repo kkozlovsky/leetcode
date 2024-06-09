@@ -85,6 +85,7 @@
         <module>reverse_vowels_of_a_string</module>
         <module>intersection_of_two_arrays</module>
         <module>valid_perfect_square</module>
+        <module>ransom_note</module>
     </modules>
 
     <properties>
