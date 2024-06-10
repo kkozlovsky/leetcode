@@ -87,6 +87,7 @@
         <module>valid_perfect_square</module>
         <module>ransom_note</module>
         <module>find_the_difference</module>
+        <module>is_subsequence</module>
     </modules>
 
     <properties>
