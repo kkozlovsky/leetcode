@@ -86,6 +86,7 @@
         <module>intersection_of_two_arrays</module>
         <module>valid_perfect_square</module>
         <module>ransom_note</module>
+        <module>find_the_difference</module>
     </modules>
 
     <properties>
