@@ -88,6 +88,7 @@
         <module>ransom_note</module>
         <module>find_the_difference</module>
         <module>is_subsequence</module>
+        <module>sum_of_left_leaves</module>
     </modules>
 
     <properties>
