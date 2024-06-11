@@ -89,6 +89,7 @@
         <module>find_the_difference</module>
         <module>is_subsequence</module>
         <module>sum_of_left_leaves</module>
+        <module>convert_a_number_to_hexadecimal</module>
     </modules>
 
     <properties>
