@@ -93,6 +93,7 @@
         <module>longest_palindrome</module>
         <module>third_maximum_number</module>
         <module>add_strings</module>
+        <module>number_of_segments_in_a_string</module>
     </modules>
 
     <properties>
