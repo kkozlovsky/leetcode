@@ -91,6 +91,7 @@
         <module>sum_of_left_leaves</module>
         <module>convert_a_number_to_hexadecimal</module>
         <module>longest_palindrome</module>
+        <module>third_maximum_number</module>
     </modules>
 
     <properties>
