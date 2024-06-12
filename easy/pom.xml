@@ -92,6 +92,7 @@
         <module>convert_a_number_to_hexadecimal</module>
         <module>longest_palindrome</module>
         <module>third_maximum_number</module>
+        <module>add_strings</module>
     </modules>
 
     <properties>
