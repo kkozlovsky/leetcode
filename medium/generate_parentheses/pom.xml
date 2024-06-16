@@ -5,23 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>ru.kerporation</groupId>
-        <artifactId>leetcode</artifactId>
+        <artifactId>medium</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>medium</artifactId>
-    <packaging>pom</packaging>
-    <name>medium</name>
-    <modules>
-        <module>add_two_numbers</module>
-        <module>longest_substring_without_repeating_characters</module>
-        <module>longest_palindromic_substring</module>
-        <module>container_with_most_water</module>
-        <module>3sum</module>
-        <module>letter_combinations_of_a_phone_number</module>
-        <module>remove_nth_node_from_end_of_list</module>
-        <module>generate_parentheses</module>
-    </modules>
+    <artifactId>generate_parentheses</artifactId>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
