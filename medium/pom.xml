@@ -22,6 +22,7 @@
         <module>remove_nth_node_from_end_of_list</module>
         <module>generate_parentheses</module>
         <module>swap_nodes_in_pairs</module>
+        <module>next_permutation</module>
     </modules>
 
     <properties>
