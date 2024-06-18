@@ -23,6 +23,7 @@
         <module>generate_parentheses</module>
         <module>swap_nodes_in_pairs</module>
         <module>next_permutation</module>
+        <module>search_in_rotated_sorted_array</module>
     </modules>
 
     <properties>
