@@ -24,6 +24,7 @@
         <module>swap_nodes_in_pairs</module>
         <module>next_permutation</module>
         <module>search_in_rotated_sorted_array</module>
+        <module>find_first_and_last_position_of_element_in_sorted_array</module>
     </modules>
 
     <properties>
