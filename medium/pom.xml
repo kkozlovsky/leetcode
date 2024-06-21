@@ -26,6 +26,7 @@
         <module>search_in_rotated_sorted_array</module>
         <module>find_first_and_last_position_of_element_in_sorted_array</module>
         <module>combination_sum</module>
+        <module>permutations</module>
     </modules>
 
     <properties>
