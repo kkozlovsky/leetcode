@@ -27,6 +27,7 @@
         <module>find_first_and_last_position_of_element_in_sorted_array</module>
         <module>combination_sum</module>
         <module>permutations</module>
+        <module>jump_game_ii</module>
     </modules>
 
     <properties>
