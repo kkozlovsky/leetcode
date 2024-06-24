@@ -28,6 +28,7 @@
         <module>combination_sum</module>
         <module>permutations</module>
         <module>jump_game_ii</module>
+        <module>rotate_image</module>
     </modules>
 
     <properties>
