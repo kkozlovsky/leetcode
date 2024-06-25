@@ -29,6 +29,7 @@
         <module>permutations</module>
         <module>jump_game_ii</module>
         <module>rotate_image</module>
+        <module>group_anagrams</module>
     </modules>
 
     <properties>
