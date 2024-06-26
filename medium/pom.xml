@@ -30,6 +30,7 @@
         <module>jump_game_ii</module>
         <module>rotate_image</module>
         <module>group_anagrams</module>
+        <module>maximum_subarray</module>
     </modules>
 
     <properties>
