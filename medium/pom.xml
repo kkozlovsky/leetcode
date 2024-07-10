@@ -31,6 +31,7 @@
         <module>rotate_image</module>
         <module>group_anagrams</module>
         <module>maximum_subarray</module>
+        <module>spiral_matrix</module>
     </modules>
 
     <properties>
