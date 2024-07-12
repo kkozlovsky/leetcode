@@ -32,7 +32,7 @@
         <module>group_anagrams</module>
         <module>maximum_subarray</module>
         <module>spiral_matrix</module>
-        <module>§</module>
+        <module>merge_intervals</module>
     </modules>
 
     <properties>
