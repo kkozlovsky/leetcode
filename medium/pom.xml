@@ -33,6 +33,7 @@
         <module>maximum_subarray</module>
         <module>spiral_matrix</module>
         <module>merge_intervals</module>
+        <module>unique_paths</module>
     </modules>
 
     <properties>
