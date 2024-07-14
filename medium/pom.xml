@@ -34,6 +34,7 @@
         <module>spiral_matrix</module>
         <module>merge_intervals</module>
         <module>unique_paths</module>
+        <module>minimum_path_sum</module>
     </modules>
 
     <properties>
