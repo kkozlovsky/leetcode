@@ -36,6 +36,7 @@
         <module>unique_paths</module>
         <module>minimum_path_sum</module>
         <module>edit_distance</module>
+        <module>set_matrix_zeroes</module>
     </modules>
 
     <properties>
