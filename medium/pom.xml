@@ -35,6 +35,7 @@
         <module>merge_intervals</module>
         <module>unique_paths</module>
         <module>minimum_path_sum</module>
+        <module>edit_distance</module>
     </modules>
 
     <properties>
