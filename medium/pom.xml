@@ -37,6 +37,7 @@
         <module>minimum_path_sum</module>
         <module>edit_distance</module>
         <module>set_matrix_zeroes</module>
+        <module>subsets</module>
     </modules>
 
     <properties>
