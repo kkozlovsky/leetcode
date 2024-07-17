@@ -27,6 +27,7 @@
         <module>find_first_and_last_position_of_element_in_sorted_array</module>
         <module>combination_sum</module>
         <module>permutations</module>
+        <module>jump_game</module>
         <module>jump_game_ii</module>
         <module>rotate_image</module>
         <module>group_anagrams</module>
@@ -38,6 +39,7 @@
         <module>edit_distance</module>
         <module>set_matrix_zeroes</module>
         <module>subsets</module>
+        <module>sort_colors</module>
     </modules>
 
     <properties>
