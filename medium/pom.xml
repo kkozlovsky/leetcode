@@ -40,6 +40,7 @@
         <module>set_matrix_zeroes</module>
         <module>subsets</module>
         <module>sort_colors</module>
+        <module>search_a_2d_matrix</module>
     </modules>
 
     <properties>
