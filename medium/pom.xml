@@ -42,6 +42,7 @@
         <module>sort_colors</module>
         <module>search_a_2d_matrix</module>
         <module>word_search</module>
+        <module>validate_binary_search_tree</module>
     </modules>
 
     <properties>
