@@ -43,6 +43,7 @@
         <module>search_a_2d_matrix</module>
         <module>word_search</module>
         <module>validate_binary_search_tree</module>
+        <module>binary_tree_level_order_traversal</module>
     </modules>
 
     <properties>
